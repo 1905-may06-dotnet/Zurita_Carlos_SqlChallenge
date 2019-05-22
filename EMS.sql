@@ -89,7 +89,7 @@ where Employee.Dept_ID = 3;
 --I increased the salary where the EmployeeID = 1 which is Tina's row
 UPDATE EmpDetails
 SET Salary = Salary + 90000
-WHERE (EmployeedID = 1)
+WHERE (EmployeeID = 1)
 
 
 
